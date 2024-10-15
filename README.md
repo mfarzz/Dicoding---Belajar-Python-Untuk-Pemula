@@ -1,4 +1,4 @@
-# Dicoding---Belajar-Python-Untuk-Pemula
+# Neotelemtri - Capstone 1
 
 Projek Submission
-  Klasifikasi Gambar Batu-Gunting-Kertas 
+  Klasifikasi Gambar Ikan
